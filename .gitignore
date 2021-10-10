@@ -1,8 +1,6 @@
+.env
 node_modules/
-ormconfig.json
-src/config/auth.ts
 build/
-.vscode/
 
 temp/*
 !temp/.gitkeep
